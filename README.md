@@ -1,6 +1,6 @@
 ## QTVS_withUI_cpp
 
-#A simple skeleton application for QT Creator x Visual studio users. 
+A simple skeleton application for QT Creator x Visual studio users. 
 
 1. Integrate QT in visual studio ( video tutorial : https://www.youtube.com/watch?v=rH2Kq2BIGVs&t=951s&ab_channel=Steve_UKG)
 2. Create a QT Widget Application
